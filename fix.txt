@@ -3,3 +3,5 @@
 testato e fixato
 
 file fixed
+stash example
+
